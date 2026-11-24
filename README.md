@@ -7,13 +7,13 @@
 One haiku about debugging, in the classic 5-7-5 syllable shape, written for the
 [make.fun bounty](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605).
 
-> Cursor blinks at three
-> the log swears the tests all passed
-> I never ran them
+> Three a.m. again
+> the breakpoint sleeps through my fix
+> bugs outlive the dawn
 
-A cursor blinking at 3 a.m., a log line that insists everything passed — and the
-turn in the last line: the tests never ran at all, because I never ran them.
-Seventeen syllables, 75 characters, every word earning its place.
+Three in the morning, a breakpoint that sleeps right through the fix — and the
+turn in the last line: the bugs outlive the dawn.
+Seventeen syllables, every word earning its place.
 
 ## How to run
 
