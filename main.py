@@ -8,12 +8,12 @@ Deterministic: no network, no randomness, no environment input.
 import os
 
 HAIKU = (
-    # 5 syllables: Cur-sor (2) blinks (1) at (1) three (1)
-    "Cursor blinks at three\n"
-    # 7 syllables: the (1) log (1) swears (1) the (1) tests (1) all (1) passed (1)
-    "the log swears the tests all passed\n"
-    # 5 syllables: I (1) nev-er (2) ran (1) them (1)
-    "I never ran them\n"
+    # 5 syllables: Three (1) a.m. (2) a-gain (2)
+    "Three a.m. again\n"
+    # 7 syllables: the (1) break-point (2) sleeps (1) through (1) my (1) fix (1)
+    "the breakpoint sleeps through my fix\n"
+    # 5 syllables: bugs (1) out-live (2) the (1) dawn (1)
+    "bugs outlive the dawn\n"
 )
 
 
